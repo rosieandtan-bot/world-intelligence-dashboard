@@ -5,60 +5,49 @@
       "id": 1,
       "cat": "AI",
       "importance": "High",
+      "signal": "red",
       "title": "Frontier AI competition accelerates",
-      "summary": "Major model releases are pushing competition toward agents, coding and enterprise workflows.",
-      "meaning": "More capable agents can increase inference and tool use, potentially expanding cloud consumption even as unit costs fall.",
-      "impact": [
-        "Cloud usage \u2191",
-        "Agent usage \u2191",
-        "AI infrastructure demand \u2191",
-        "ChatGPT moat: watch"
-      ],
-      "source": "https://www.axios.com/"
+      "summary": "OpenAI's GPT-6 Astra launch is pushing frontier-model competition further toward agents, coding and software workflows, alongside rapid releases from rivals.",
+      "meaning": "More capable agents can increase inference, tool calls and workflow automation, potentially expanding cloud consumption even as the cost of individual model calls falls.",
+      "impact": ["Cloud usage ↑", "Agent usage ↑", "AI infrastructure demand ↑", "ChatGPT moat: watch"],
+      "source": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+      "sourceName": "Axios — OpenAI launches GPT-6 Astra"
     },
     {
       "id": 2,
       "cat": "Geopolitics",
       "importance": "High",
+      "signal": "red",
       "title": "Gulf tensions keep energy risk central",
-      "summary": "Shipping and energy risks keep geopolitics tightly linked to the inflation outlook.",
-      "meaning": "Higher oil can lift inflation expectations, push yields higher and weigh on long-duration assets.",
-      "impact": [
-        "Oil \u2191 risk",
-        "Inflation \u2191 risk",
-        "Rates \u2191 risk",
-        "Crypto mixed"
-      ],
-      "source": "https://www.reuters.com/"
+      "summary": "Iran's leverage around the Strait of Hormuz remains an important energy-market variable even as the market has adapted to some disruption risk.",
+      "meaning": "A renewed oil shock could lift inflation expectations, push yields higher and weigh on rate-sensitive equities and crypto.",
+      "impact": ["Oil ↑ risk", "Inflation ↑ risk", "Rates ↑ risk", "Crypto mixed"],
+      "source": "https://www.reuters.com/business/energy/irans-hormuz-leverage-wanes-us-economic-squeeze-bites-2026-09-06/",
+      "sourceName": "Reuters — Iran's Hormuz leverage wanes"
     },
     {
       "id": 3,
       "cat": "Markets",
       "importance": "High",
+      "signal": "red",
       "title": "Markets balance growth against tighter-policy risk",
-      "summary": "Risk assets are being pulled between resilient growth and concern that inflation could keep policy restrictive.",
-      "meaning": "A hawkish rates repricing can pressure long-duration equities and crypto despite solid growth.",
-      "impact": [
-        "Growth positive",
-        "Rates headwind",
-        "USD watch",
-        "BTC constructive but fragile"
-      ],
-      "source": "https://www.reuters.com/markets/"
+      "summary": "Global markets are balancing resilient growth with inflation and rate-hike concerns as oil remains elevated and risk assets continue to move higher.",
+      "meaning": "A hawkish rates repricing can pressure long-duration equities and crypto even when economic growth remains solid.",
+      "impact": ["Growth positive", "Rates headwind", "USD watch", "BTC constructive but fragile"],
+      "source": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-07/",
+      "sourceName": "Reuters — Global markets, 7 Sep 2026"
     },
     {
       "id": 4,
       "cat": "Social",
       "importance": "Medium",
-      "title": "Social platforms turn engagement surfaces into content surfaces",
-      "summary": "New interaction formats are making comments, Shorts and creator tools more important for distribution.",
-      "meaning": "Creators increasingly need to design for participation, retention and downstream engagement.",
-      "impact": [
-        "Community strategy \u2191",
-        "Engagement tooling \u2191",
-        "Vanity metrics less useful"
-      ],
-      "source": "https://techcrunch.com/category/social/"
+      "signal": "yellow",
+      "title": "TikTok turns comments into richer engagement surfaces",
+      "summary": "TikTok is adding voice comments, comment polls, photo carousels and Live Photo comments, making the comment section a more interactive content surface.",
+      "meaning": "Creators increasingly need to design for participation and downstream conversation, not only the initial video view. Comment strategy can become part of distribution strategy.",
+      "impact": ["Community strategy ↑", "Engagement tooling ↑", "Participation ↑", "Passive comments ↓"],
+      "source": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+      "sourceName": "TechCrunch — TikTok comments get interactive"
     }
   ]
 }
