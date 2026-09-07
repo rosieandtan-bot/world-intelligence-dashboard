@@ -1,0 +1,64 @@
+{
+  "date": "7 Sep 2026",
+  "stories": [
+    {
+      "id": 1,
+      "cat": "AI",
+      "importance": "High",
+      "title": "Frontier AI competition accelerates",
+      "summary": "Major model releases are pushing competition toward agents, coding and enterprise workflows.",
+      "meaning": "More capable agents can increase inference and tool use, potentially expanding cloud consumption even as unit costs fall.",
+      "impact": [
+        "Cloud usage \u2191",
+        "Agent usage \u2191",
+        "AI infrastructure demand \u2191",
+        "ChatGPT moat: watch"
+      ],
+      "source": "https://www.axios.com/"
+    },
+    {
+      "id": 2,
+      "cat": "Geopolitics",
+      "importance": "High",
+      "title": "Gulf tensions keep energy risk central",
+      "summary": "Shipping and energy risks keep geopolitics tightly linked to the inflation outlook.",
+      "meaning": "Higher oil can lift inflation expectations, push yields higher and weigh on long-duration assets.",
+      "impact": [
+        "Oil \u2191 risk",
+        "Inflation \u2191 risk",
+        "Rates \u2191 risk",
+        "Crypto mixed"
+      ],
+      "source": "https://www.reuters.com/"
+    },
+    {
+      "id": 3,
+      "cat": "Markets",
+      "importance": "High",
+      "title": "Markets balance growth against tighter-policy risk",
+      "summary": "Risk assets are being pulled between resilient growth and concern that inflation could keep policy restrictive.",
+      "meaning": "A hawkish rates repricing can pressure long-duration equities and crypto despite solid growth.",
+      "impact": [
+        "Growth positive",
+        "Rates headwind",
+        "USD watch",
+        "BTC constructive but fragile"
+      ],
+      "source": "https://www.reuters.com/markets/"
+    },
+    {
+      "id": 4,
+      "cat": "Social",
+      "importance": "Medium",
+      "title": "Social platforms turn engagement surfaces into content surfaces",
+      "summary": "New interaction formats are making comments, Shorts and creator tools more important for distribution.",
+      "meaning": "Creators increasingly need to design for participation, retention and downstream engagement.",
+      "impact": [
+        "Community strategy \u2191",
+        "Engagement tooling \u2191",
+        "Vanity metrics less useful"
+      ],
+      "source": "https://techcrunch.com/category/social/"
+    }
+  ]
+}
